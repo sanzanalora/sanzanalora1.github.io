@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #778899;
+  color: rgb(0,0,225);
   text-decoration: none;
   background-color: transparent;
 }
@@ -10116,4 +10116,12 @@ section.resume-section .resume-section-content {
 p,li{
   text-align: justify;
   text-justify: inter-word;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #778899;
+  color: white;
+  display:block;
 }
